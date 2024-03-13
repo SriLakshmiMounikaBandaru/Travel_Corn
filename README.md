@@ -35,6 +35,8 @@ Welcome to travel_corn the Andhra-Telangana Tourist Destinations Showcase projec
 ![Screenshot 2024-03-13 143548](https://github.com/SriLakshmiMounikaBandaru/Travel_Corn/assets/114336621/7058ba4b-7c22-4889-9c79-65a74a6da3e3)
 
 # Project Structure
+![Screenshot 2024-03-13 145040](https://github.com/SriLakshmiMounikaBandaru/Travel_Corn/assets/114336621/e3e76f63-ec3d-48e2-9425-4dd5a3d92966)
+
 **components**: This directory contains all the React components used in the project.
 
 **carousel**: Contains the image carousel component for displaying images of tourist destinations.
