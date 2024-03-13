@@ -1,0 +1,41 @@
+/* Table.css */
+
+.table-container {
+  width: 100%;
+  overflow-x: auto;
+  margin-bottom: 20px; /* Add a bottom margin to prevent the table from touching the footer */
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.table th, .table td {
+  border: 2px solid #dddddd; /* Increase border thickness */
+  text-align: left;
+  padding: 10px; /* Adjust padding for better spacing */
+}
+
+/* Add responsiveness for mobile views */
+@media only screen and (max-width: 425px) {
+  .table th, .table td {
+    font-size: 12px;
+    padding: 6px;
+  }
+}
+
+@media only screen and (min-width: 426px) and (max-width: 375px) {
+  .table th, .table td {
+    font-size: 14px;
+    padding: 8px;
+  }
+}
+
+@media only screen and (min-width: 376px) and (max-width: 320px) {
+  .table th, .table td {
+    font-size: 16px;
+    padding: 10px;
+  }
+}

@@ -1,0 +1,67 @@
+/* PieChart.css */
+
+.pie-chart-container {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.pie-chart-container h2 {
+  margin-bottom: 10px;
+}
+
+.pie-chart {
+  cursor: pointer; /* Add cursor pointer for better user experience */
+}
+
+/* Add hover, active, and focus styles for pie slices */
+.pie-chart path {
+  transition: transform 0.3s ease-in-out; /* Use transform for smoother scaling animation */
+}
+
+.pie-chart path:hover {
+  transform: scale(1.1); /* Increase the size on hover */
+}
+
+.pie-chart path:active {
+  transform: scale(1.2); /* Further increase size on click */
+}
+
+.pie-chart path:focus {
+  outline: none;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.legend-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+  margin-bottom: 5px;
+}
+
+.legend-color {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  margin-right: 5px;
+}
+
+/* Add hover, active, and focus styles for legend items */
+.legend-item:hover {
+  color: #333; /* Change text color on hover */
+}
+
+.legend-item:active {
+  transform: scale(1.1);
+}
+
+.legend-item:focus {
+  outline: none;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
