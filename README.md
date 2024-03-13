@@ -24,3 +24,6 @@ Responsive Design: Utilizing media queries and responsive design principles to e
 
 # Inside of my project
 ![Screenshot 2024-03-13 143454](https://github.com/SriLakshmiMounikaBandaru/Travel_Corn/assets/114336621/ac6652b5-482e-4b10-aded-3783cd0cbbc6)
+
+![Screenshot 2024-03-13 143525](https://github.com/SriLakshmiMounikaBandaru/Travel_Corn/assets/114336621/362c21d7-7394-49cd-93cd-d8702f11b391)
+
