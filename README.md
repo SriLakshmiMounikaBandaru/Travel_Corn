@@ -1,6 +1,6 @@
 # Frontend of the Project
+![Flashback - Mar 13, 2024 12_08_49](https://github.com/SriLakshmiMounikaBandaru/Travel_Corn/assets/114336621/98b2e100-b1b3-4fb8-90aa-3ca595f30bb5)
 
-![abd20e0f-ad9f-48ef-bc92-1f4e002e1307](https://github.com/SriLakshmiMounikaBandaru/Travel_Corn/assets/114336621/87fca92c-185d-4d6d-aa08-b465f882cb74)
 
 # Andhra-Telangana Tourist Destinations Showcase
 Welcome to travel_corn the Andhra-Telangana Tourist Destinations Showcase project! This project is developed using React.js and Tailwind CSS to provide a user-friendly platform for showcasing various tourist destinations in the states of Andhra Pradesh and Telangana. The primary aim of this project is to promote tourism in these regions and offer valuable information to tourists.
