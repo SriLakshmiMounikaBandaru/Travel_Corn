@@ -1,5 +1,8 @@
 # Frontend of the Project
-![Flashback - Mar 13, 2024 12_08_49](https://github.com/SriLakshmiMounikaBandaru/Travel_Corn/assets/114336621/98b2e100-b1b3-4fb8-90aa-3ca595f30bb5)
+
+https://github.com/SriLakshmiMounikaBandaru/Travel_Corn/assets/114336621/9b9c7f6c-cd5a-44e6-b4f5-4bef3098feb7
+
+
 
 
 # Andhra-Telangana Tourist Destinations Showcase
